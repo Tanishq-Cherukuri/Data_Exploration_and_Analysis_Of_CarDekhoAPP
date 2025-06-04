@@ -1,0 +1,57 @@
+🚗 CarDekho Used Cars - Data Exploration & Insights
+A comprehensive exploratory data analysis (EDA) project based on the CarDekho dataset, focused on uncovering patterns and trends in the Indian used car market. This project transforms raw data into actionable insights using Python-based analysis and intuitive visualizations.
+
+📌 Project Objective
+Explore and analyze a dataset of 4,340 used car listings across 8 key features
+
+Discover insights about car brand popularity, fuel and transmission preferences, ownership patterns, and selling price trends
+
+Visualize findings using charts to aid strategic decision-making for consumers or businesses in the automotive domain
+
+🗂️ Dataset Overview
+Source: Kaggle - CarDekho Car Details Dataset
+
+Rows: 4,340
+
+Columns: 8 (Car Name, Year, Selling Price, Kilometers Driven, Fuel Type, Transmission, Owner Type, etc.)
+
+🔍 Key Insights
+Ownership Trends:
+
+First-owner cars dominate the listings at 65.25%
+
+Test-drive vehicles make up just 0.39%
+
+Transmission Preferences:
+
+Manual transmission is strongly preferred (89.68%)
+
+Automatic vehicles make up only 10.32%
+
+Fuel Distribution:
+
+Diesel and petrol cars are nearly equally represented
+
+Electric vehicles remain minimal in this dataset
+
+Brand Performance:
+
+Maruti Suzuki leads with the highest sales margin
+
+Brands like KIA, Force, and Isuzu are the least listed
+
+📊 Visualizations
+📍 Pie Charts: Ownership distribution, Transmission types
+
+📍 Bar Charts: Selling price by car brand, Kilometers driven by brand
+
+🧰 Tech Stack
+Languages: Python
+
+Libraries: Pandas, Matplotlib, Seaborn
+
+Tools: Jupyter Notebook
+
+✅ Conclusion
+This analysis provides a detailed snapshot of India's used car market on CarDekho. It highlights key consumer behaviors and brand performance, offering valuable insights for marketers, dealerships, and buyers alike.
+
